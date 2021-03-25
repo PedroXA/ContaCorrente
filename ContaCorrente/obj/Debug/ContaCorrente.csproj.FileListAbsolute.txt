@@ -1,0 +1,10 @@
+C:\Users\Pedro\source\repos\ContaCorrente\ContaCorrente\bin\Debug\ContaCorrente.exe.config
+C:\Users\Pedro\source\repos\ContaCorrente\ContaCorrente\bin\Debug\ContaCorrente.exe
+C:\Users\Pedro\source\repos\ContaCorrente\ContaCorrente\bin\Debug\ContaCorrente.pdb
+C:\Users\Pedro\source\repos\ContaCorrente\ContaCorrente\obj\Debug\ContaCorrente.csprojAssemblyReference.cache
+C:\Users\Pedro\source\repos\ContaCorrente\ContaCorrente\obj\Debug\ContaCorrente.Form1.resources
+C:\Users\Pedro\source\repos\ContaCorrente\ContaCorrente\obj\Debug\ContaCorrente.Properties.Resources.resources
+C:\Users\Pedro\source\repos\ContaCorrente\ContaCorrente\obj\Debug\ContaCorrente.csproj.GenerateResource.cache
+C:\Users\Pedro\source\repos\ContaCorrente\ContaCorrente\obj\Debug\ContaCorrente.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\source\repos\ContaCorrente\ContaCorrente\obj\Debug\ContaCorrente.exe
+C:\Users\Pedro\source\repos\ContaCorrente\ContaCorrente\obj\Debug\ContaCorrente.pdb
